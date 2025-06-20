@@ -12,11 +12,6 @@ This repository contains a simple and elegant Todo List web app built using Tail
 - Change to-dos status
 - Filter to-dos by status
 
-## Live Demo
-
-You can check out the live demo of the Todo List web app [here](https://abdellatif-laghjaj.github.io/todo-list/)).
-
-
 
 ## Technologies Used
 
